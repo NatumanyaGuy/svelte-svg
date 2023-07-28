@@ -1,3 +1,5 @@
+![Svelte-SVG Logo](https://raw.githubusercontent.com/NatumanyaGuy/svelte-svg/master/static/favicon.png "Svelte SVG logo")
+
 # Svelte-SVG - All your svg icons in one place
 
 Svelte SVG is a web app built with SvelteKit that allows users to collect SVG icons from anywhere on the web or downloaded svg files to create a single Svelte component to import from. Each icon in the generated Svelte component extends props such as class, style; making it simple to use and customize.
