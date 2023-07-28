@@ -23,7 +23,7 @@
 		>
 	</div>
 	<div class="flex-none gap-1">
-		<a href="https://github.com/NatumanyaGuy" target="_blank" class="btn btn-circle btn-ghost">
+		<a href="https://github.com/NatumanyaGuy/svelte-svg" target="_blank" class="btn btn-circle btn-ghost">
 			<Icons icon="Github" class="h-5 w-5 fill-primary-content" />
 		</a>
 
@@ -40,7 +40,7 @@
 		</a>
 
 		<!-- Theme Button  -->
-		<div class="flex flex-row gap-1 bg-base-300 p-3 rounded-full bg-opacity-10">
+		<!-- <div class="flex flex-row gap-1 bg-base-300 p-3 rounded-full bg-opacity-10">
 			<button class="">
 				<Icons icon="Sun" class="h-5 w-5" />
 			</button>
@@ -55,6 +55,6 @@
 			<button class="">
 				<Icons icon="Moon" class="h-5 w-5" />
 			</button>
-		</div>
+		</div> -->
 	</div>
 </div>

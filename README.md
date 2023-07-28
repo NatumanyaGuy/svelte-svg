@@ -39,6 +39,8 @@ In you main page, Import your Icons component to where you're using it
 [ ] SVG inner CSS styles conflicts
 [ ] Allow import previous components
 [ ] Export with Icon Guide (click to copy feature)
+[ ] Integrate DB for shareable collections
+[ ] Dark Mode!
 
 ### Contributing
 
