@@ -1,0 +1,17 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: Chillax;
+	src: url(/Chillax.ttf);
+}
+
+* {
+	font-family: Chillax;
+}
+
+.bg-cool {
+	@apply bg-[conic-gradient(at_top_left,_var(--tw-gradient-stops))] from-base-200 via-base-100 to-base-300;
+}
