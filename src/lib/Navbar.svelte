@@ -47,7 +47,7 @@
 
 			<input
 				data-toggle-theme="dark,light"
-				data-act-class="_ACTIVECLASS"
+				data-act-class="ACTIVECLASS"
 				type="checkbox"
 				class="toggle toggle-sm"
 				checked={false}

@@ -92,7 +92,7 @@
 		<div class="card-body">
 			<!-- File Input  -->
 			<div class="flex flex-col">
-				<label for="" class="label-text mb-2 mx-4">Upload your SVG file</label>
+				<label for="" class="label-text mb-2 mx-4">Upload your SVG files</label>
 				<input
 					multiple
 					type="file"

@@ -6,11 +6,11 @@ export default {
 			{
 				light: {
 					...require('daisyui/src/theming/themes')['[data-theme=light]'],
-					primary: '#191919',
-					'primary-focus': '#191919',
+					primary: '#2292A4',
+					'primary-focus': '#235b67',
 					'primary-content': '#fff',
-					secondary: '#05204A',
-					'secondary-focus': '#0a4aa5',
+					secondary: '#001524',
+					'secondary-focus': '#004b7a',
 					'secondary-content': '#fff'
 					// 'base-200': '#fff'
 				}
@@ -18,11 +18,11 @@ export default {
 			{
 				dark: {
 					...require('daisyui/src/theming/themes')['[data-theme=dark]'],
-					primary: '#906036',
-					'primary-focus': '#906036',
+					primary: '#206f7e',
+					'primary-focus': '#214c58',
 					'primary-content': '#fff',
-					secondary: '#0e8d62',
-					'secondary-focus': '#0a4a37',
+					secondary: '#005c95',
+					'secondary-focus': '#004b7a',
 					'secondary-content': '#fff'
 				}
 			}
